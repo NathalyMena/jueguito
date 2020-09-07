@@ -28,7 +28,7 @@ public class KeyManager extends KeyAdapter{
                     System.out.println("oprimi abajo");
                 } else if (key == KeyEvent.VK_ESCAPE) {
                     //Opcion por definir
-                }//Se pueden añadir más teclas
+                }
 
         }
 
